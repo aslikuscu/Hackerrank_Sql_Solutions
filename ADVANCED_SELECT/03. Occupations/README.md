@@ -16,11 +16,13 @@ Sample Input
 
 Sample Output
 
-Jenny    Ashley     Meera  Jane / Samantha Christeen  Priya  Julia / NULL     Ketty      NULL   Maria
+Jenny    Ashley     Meera  Jane <br>
+Samantha Christeen  Priya  Julia <br>
+NULL     Ketty      NULL   Maria <br>
 Explanation
 
-The first column is an alphabetically ordered list of Doctor names.
-The second column is an alphabetically ordered list of Professor names.
-The third column is an alphabetically ordered list of Singer names.
-The fourth column is an alphabetically ordered list of Actor names.
+The first column is an alphabetically ordered list of Doctor names. <br>
+The second column is an alphabetically ordered list of Professor names. <br>
+The third column is an alphabetically ordered list of Singer names. <br>
+The fourth column is an alphabetically ordered list of Actor names. <br>
 The empty cell data for columns with less than the maximum number of names per occupation (in this case, the Professor and Actor columns) are filled with NULL values.
