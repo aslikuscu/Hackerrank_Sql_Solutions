@@ -4,13 +4,15 @@ Input Format
 
 The following tables contain contest data:
 
-Hackers: The hacker_id is the id of the hacker, and name is the name of the hacker. 
+Hackers: The hacker_id is the id of the hacker, and name is the name of the hacker.
+
 ![image](https://github.com/user-attachments/assets/61e88568-3422-4cda-8212-512a1fe97233)
 
-Difficulty: The difficult_level is the level of difficulty of the challenge, and score is the score of the challenge for the difficulty level. 
+Difficulty: The difficult_level is the level of difficulty of the challenge, and score is the score of the challenge for the difficulty level.
+
 ![image](https://github.com/user-attachments/assets/0961afc6-d8fb-452f-a645-c4772f73665e)
 
-Challenges: The challenge_id is the id of the challenge, the hacker_id is the id of the hacker who created the challenge, and difficulty_level is the level of difficulty of the challenge. 
+Challenges: The challenge_id is the id of the challenge, the hacker_id is the id of the hacker who created the challenge, and difficulty_level is the level of difficulty of the challenge.
 ![image](https://github.com/user-attachments/assets/ace14d96-e511-4338-9381-ae9b753e7706)
 
 Submissions: The submission_id is the id of the submission, hacker_id is the id of the hacker who made the submission, challenge_id is the id of the challenge that the submission belongs to, and score is the score of the submission. 
@@ -21,7 +23,7 @@ Sample Input
 Hackers Table:  
 ![image](https://github.com/user-attachments/assets/c9bf918f-c680-42ae-938d-c4005f8ac547)
 
-Difficulty Table:  
+Difficulty Table: 
 ![image](https://github.com/user-attachments/assets/befcf40d-300d-4884-8874-07cadeb0b5ab)
 
 Challenges Table:  
